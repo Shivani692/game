@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="C:\Users\DELL\Desktop\html\game\assets\joy_stick 1.png" type="image/x-icon">
+</head>
+<body><div class="jo">
+    <div class="joy"><img src="C:\Users\DELL\Desktop\html\game\assets\joy_stick 1.png"></div>
+    <div class="cry"><img src="C:\Users\DELL\Desktop\html\game\assets\cry 1.png"></div>
+    <img src="C:\Users\DELL\Desktop\html\game\assets\unreal 1.png" class="unreal">
+    <img src="C:\Users\DELL\Desktop\html\game\assets\unity 1.png" class="unity"></div>
+    <div class="lo">
+        <h2>LOGO</h2>
+        <div class="ho">
+            <li class="line">Home<img src="C:\Users\DELL\Desktop\html\game\assets\Group 94.png"></li>
+            <li>About&nbsp;us</li>
+            <li>Portfolio</li>
+            <li>News</li>
+            <li class="or"><p>Contact us</p></Contact></li>
+        </div>
+    </div>
+    <div class="d">
+        <li class="o">3D game Dev </li>
+        <li class="n">Work that we produce for our clients</li>
+        <li class="e">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.</li>
+        <li class="on"><p>Get more details</p></li>
+    </div>
+    <div class="current">
+        <li class="cu">Currently Trending Games</li>
+        <li class="cu1"><p>SEE ALL</p></li>
+    </div>
+    <div class="four">
+        <img src="C:\Users\DELL\Desktop\html\game\assets\Rectangle 23.png">
+        <img src="C:\Users\DELL\Desktop\html\game\assets\Rectangle 24.png">
+        <img src="C:\Users\DELL\Desktop\html\game\assets\Rectangle 25.png">
+        <img src="C:\Users\DELL\Desktop\html\game\assets\Rectangle 26.png">
+    </div>
+    <div class="follower"><img src="C:\Users\DELL\Desktop\html\game\assets\Group 89.png">
+        <img src="C:\Users\DELL\Desktop\html\game\assets\Group 89.png">
+        <img src="C:\Users\DELL\Desktop\html\game\assets\Group 89.png">
+        <img src="C:\Users\DELL\Desktop\html\game\assets\Group 89.png"></div>
+        <div class="indu"><h2>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</h2></div>
+        <div class="indhu"><h2>Lorem Ipsum</h2>
+            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p></div>
+   <img src="C:\Users\DELL\Desktop\html\game\assets\Rectangle 4.png" class="spi">
+   <div class="maram">
+    <div class="pinna"></div>
+    <div class="pinna2"><img src="C:\Users\DELL\Desktop\html\game\assets\db4d123c4b390965f684f22d4bf13849 1.png"></div>
+    <div class="letter">
+        <li class="pin1">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</li>
+        <li class="pin2">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</li>
+    </div>
+   </div>
+   <div class="pin3"><img src="C:\Users\DELL\Desktop\html\game\assets\Group 36.png"></div>
+   <div class="our">
+<li class="ou1">Our Recent Projects</li>
+<li class="ou2">Lorem Ipsum is simply dummy text of the printing and typesetting industry. </li>
+   </div>
+   <div class="ou3">
+    <img src="C:\Users\DELL\Desktop\html\game\assets\Rectangle 15.png">
+    <img src="C:\Users\DELL\Desktop\html\game\assets\Rectangle 16.png">
+    <img src="C:\Users\DELL\Desktop\html\game\assets\Rectangle 17.png">
+   </div>
+   <div class="ou4">
+    <img src="C:\Users\DELL\Desktop\html\game\assets\Rectangle 19.png">
+    <img src="C:\Users\DELL\Desktop\html\game\assets\Rectangle 18.png">
+    <img src="C:\Users\DELL\Desktop\html\game\assets\Rectangle 20.png">
+   </div>
+   <div class="see"><p>SEE ALL</p></div>
+   <div class="apro"><h2>Lorem Ipsum</h2>
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p></div>
+<div class="apro1">
+    <h2>Stay in the loop</h2>
+    <p>Subscribe to receive the latest news and updates about TDA.
+        We promise not to spam you! </p>
+        <img src="C:\Users\DELL\Desktop\html\game\assets\Group 40.png">
+</div>
+<div class="loo"><p class="lo1">LOGO</p>
+<p class="lo2">Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+<p class="lo3">@Logo</p></div>
+<div class="lo4"><h3>About us</h3>
+<li>Zeux</li>
+ <li> Portfolio</li>
+ <li> Careers</li>
+ <li> Contact us</li></div>
+ <div class="lo5"><h3>Contact us</h3>
+    <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </li>
+     <li> +908 89097 890</li>
+    <img src="C:\Users\DELL\Desktop\html\game\assets\Group 12.png"></div>
+    <div class="last"><p>Copyright ® 2021 Lorem All rights Rcerved</p></div>
+        </body>
+</html>
